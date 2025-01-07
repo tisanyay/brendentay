@@ -58,7 +58,7 @@ export function Portfolio() {
 
 
       <section>
-        <h2>Hackathons/Competitions</h2>
+        <h2>Hackathons / Competitions</h2>
 
         <div className="item">
           <b>NSCC HPC AI Innovation Challenge</b>

@@ -1,10 +1,10 @@
 body {
-    padding: 3rem;
-    font-size: 140%
+    padding: 30px;
+    font-size: 140%;
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 8rem;
 }
 
 h2, h3{
@@ -17,7 +17,7 @@ h2 {
 }
 
 .summary {
-    line-height: 58%;
+    line-height: 140%;
 }
 
 section {
@@ -25,7 +25,7 @@ section {
 }
 
 .content-box {
-    padding: 50px 80px 50px;
+    padding: 50px 30px 50px;
 }
 
 nav {

@@ -52,7 +52,7 @@ function App() {
       <section>
         <h3>Hi, I'm an SP Applied AI and Analytics (DAAA) graduate pursuing a career in data science</h3>
 
-        <div class="summary">
+        <div className="summary">
             <p>Aiming to enroll into SIT Applied AI, I aspire to develop my expertise in machine learning and AI to drive meaningful change in industries like finance, education, and healthcare.</p>
             <p>I have experience in data analytics, data engineering, machine learning, and AI. In addition, I have web development experience in creating machine learning web applications.</p>
             <p>I consider myself to be a quick-learner with a passion for learning.</p>

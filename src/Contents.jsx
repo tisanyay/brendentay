@@ -12,17 +12,17 @@ export function AboutMe() {
 
 export function Portfolio() {
   return (
-    <div class="container-fluid content-box bg-light" id="about-me">
+    <div className="container-fluid content-box bg-light" id="about-me">
       <section>
         <h2>Education</h2>
 
-        <div class="item">
+        <div className="item">
             <small>2021-2024</small><br />
             <b>Singapore Polytechnic &mdash; DAAA</b>
         </div>
         <hr />
       
-        <div class="item">
+        <div className="item">
             <small>2016-2021</small><br />
             <b>North Vista Secondary School</b>
         </div>
@@ -34,12 +34,12 @@ export function Portfolio() {
       <section>
         <h2>Project Experience</h2>
 
-        <div class="item">
+        <div className="item">
           <b><a href="https://github.com/tisanyay/IntrinsicMotivationRL">Intrinsic motivation (reinforcement learning) with Contra-Nes</a></b>
         </div>
         <hr />
 
-        <div class="item">
+        <div className="item">
           <b><a href="https://github.com/tisanyay/GANs">Generative Adversarial Networks (GANs) on CIFAR-10 dataset</a></b>
         </div>
         <hr />
@@ -49,7 +49,7 @@ export function Portfolio() {
         </div>
         <hr />
 
-        <div class="item">
+        <div className="item">
           <b><a href="https://github.com/tisanyay/unsupervised_learning">Unsupervised Learning on company dataset on employee satisfaction</a></b>
         </div>
         <hr />
@@ -60,12 +60,12 @@ export function Portfolio() {
       <section>
         <h2>Hackathons/Competitions</h2>
 
-        <div class="item">
+        <div className="item">
           <b>NSCC HPC AI Innovation Challenge</b>
         </div>
         <hr />
 
-        <div class="item">
+        <div className="item">
           <b>Poly-ITE Olympiad for Informatics</b>
         </div>
         <hr />
@@ -84,17 +84,17 @@ export function Contact() {
     <div class="container-fluid content-box bg-light">
       <section>
         <h2>Contact</h2>
-        <div class="item">
+        <div className="item">
           <small>Phone</small><br />
           <a href="tel:+6592311728">92311728</a>
         </div>
         <hr />
-        <div class="item">
+        <div className="item">
           <small>Email</small><br />
           <a href="mailto:brendentay@gmail.com">brendentay@gmail.com</a>
         </div>
         <hr />
-        <div class="item">
+        <div className="item">
           <small>LinkedIn</small><br />
           <a href="https://tinyurl.com/brendentay" target="_blank" rel="noopener noreferrer">Connect</a>
         </div>

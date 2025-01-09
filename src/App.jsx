@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
-import { AboutMe, Portfolio, Contact } from './Contents'
+import AboutMe from './AboutMe'
+import Portfolio from './Portfolio'
+import Contact from './Contact'
 import './App.css'
 import Navbar from './Navbar'
 

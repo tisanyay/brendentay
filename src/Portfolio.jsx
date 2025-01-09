@@ -1,16 +1,6 @@
 import React from 'react';
 
-export function AboutMe() {
-  return (
-    <div className="container-fluid content-box bg-light">
-      <section>
-        <h2>something</h2>
-      </section>
-    </div>
-  )
-}
-
-export function Portfolio() {
+export default function Portfolio() {
   return (
     <div className="container-fluid content-box bg-light" id="about-me">
       <section>
@@ -74,31 +64,6 @@ export function Portfolio() {
 
       <section>
         <h2>Certificates</h2>
-      </section>
-    </div>
-  )
-}
-
-export function Contact() {
-  return (
-    <div class="container-fluid content-box bg-light">
-      <section>
-        <h2>Contact</h2>
-        <div className="item">
-          <small>Phone</small><br />
-          <a href="tel:+6592311728">92311728</a>
-        </div>
-        <hr />
-        <div className="item">
-          <small>Email</small><br />
-          <a href="mailto:brendentay@gmail.com">brendentay@gmail.com</a>
-        </div>
-        <hr />
-        <div className="item">
-          <small>LinkedIn</small><br />
-          <a href="https://tinyurl.com/brendentay" target="_blank" rel="noopener noreferrer">Connect</a>
-        </div>
-        <hr />
       </section>
     </div>
   )

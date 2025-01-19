@@ -17,7 +17,7 @@ export default function Contact() {
         <hr />
         <div className="item">
           <small>LinkedIn</small><br />
-          <a href="https://tinyurl.com/brendentay" target="_blank" rel="noopener noreferrer">Connect</a>
+          <a href="https://www.linkedin.com/in/yisan-tay-841a71218/" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/yisan-tay-841a71218/</a>
         </div>
         <hr />
       </section>

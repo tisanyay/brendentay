@@ -64,3 +64,12 @@ b {
         padding-top: 20px;
     }
 }
+
+.video-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.video-row iframe {
+    margin: 20px;
+}
